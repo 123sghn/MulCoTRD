@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-        🤗 <a href="https://101b544ab11e15f58f.gradio.live/">Demo (Developed based on Gradio)</a>
+        🤗 <a href="https://71fa6862bec24a314a.gradio.live/">Demo (Developed based on Gradio)</a>
 </p>
 
 <h3 align="center">
