@@ -49,6 +49,11 @@ Please place the downloaded **MulCoT-RD-7B** and **MulCoT-RD-3B** models in the 
 - `MulCoT-RD-7B` → `./logs/models/ftcot/Qwen_2.5_VL_72B/`
 - `MulCoT-RD-3B` → `./logs/models/kd/Qwen_2.5_VL_72B/`
 
+Please modify the image data and model loading paths in the following files:
+
+- `./src/dataset.py`
+- `./src/functions.py`
+
 ### Step2: Validate the Assistant model
 ```
 bash shells/assistant_eval.sh
