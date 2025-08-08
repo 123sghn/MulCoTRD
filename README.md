@@ -5,13 +5,16 @@
 </p>
 
 <p align="center">
-        🤗 <a href="https://71fa6862bec24a314a.gradio.live/">Demo (Developed based on Gradio)</a>
+    🤗 <a href="https://71fa6862bec24a314a.gradio.live/">Demo (Developed based on Gradio)</a><br/>
+    📄 <a href="https://arxiv.org/abs/2508.05234">Paper (arXiv:2508.05234)</a>
 </p>
 
 <h3 align="center">
   Resource-Limited Joint Multimodal Sentiment Reasoning and Classification <br/>
   via Chain-of-Thought Enhancement and Distillation
 </h3>
+
+
 
 ## Overview
 ![overview](./assets/framework.png)
