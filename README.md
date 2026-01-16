@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    🤗 <a href="https://4ef1d99c4e123943a4.gradio.live/">Demo (Developed based on Gradio)</a> | 📄 <a href="https://arxiv.org/abs/2508.05234">Paper (arXiv:2508.05234)</a>
+    🤗 <a href="https://2b209faae15c5a7c63.gradio.live/">Demo (Developed based on Gradio)</a> | 📄 <a href="https://arxiv.org/abs/2508.05234">Paper (arXiv:2508.05234)</a>
 </p>
 
 <h3 align="center">
